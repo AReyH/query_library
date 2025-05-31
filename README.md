@@ -45,7 +45,7 @@ Query Library is a lightweight tool for generating descriptions and tags for a s
 2. Run the script:
 
    ```bash
-   python your_script_name.py
+   python main.py
    ```
 
 ## Example Output
